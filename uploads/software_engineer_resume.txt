@@ -1,0 +1,30 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1 234 567 8901
+
+Objective:
+Seeking a software engineering position to utilize my expertise in software development, algorithms, and problem-solving skills.
+
+Skills:
+- Programming Languages: Python, Java, C++
+- Frameworks: Flask, Django, Spring
+- Databases: MySQL, MongoDB
+- Version Control: Git, GitHub
+
+Experience:
+Software Engineer at Tech Solutions Inc.
+June 2019 – Present
+- Developed backend APIs using Flask and Django.
+- Implemented RESTful services for scalable applications.
+- Collaborated with frontend teams to enhance user experience.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, 2015 – 2019
+
+Projects:
+- Resume Matcher: NLP based job classification system.
+- E-commerce website backend development.
+
+References:
+Available upon request.

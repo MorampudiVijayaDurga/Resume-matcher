@@ -1,0 +1,21 @@
+John Doe  
+Email: johndoe@example.com  
+Phone: +1-555-123-4567  
+
+Objective:  
+Looking for a challenging role as a data analyst where I can apply my skills in data visualization, statistical analysis, and machine learning.
+
+Skills:  
+- Python, SQL, Excel  
+- Data Visualization (Tableau, Power BI)  
+- Machine Learning (scikit-learn, pandas)  
+- Strong analytical and problem-solving skills  
+
+Experience:  
+Data Analyst Intern, ABC Corp  
+June 2023 – Dec 2023  
+- Cleaned and analyzed large datasets using Python and Excel  
+- Built dashboards in Tableau for real-time KPI tracking  
+
+Education:  
+B.Sc in Statistics, XYZ University
